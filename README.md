@@ -99,6 +99,6 @@ This structured plan will help the team stay aligned and deliver a high-quality 
 6. Conduct user training and gather user feedback  
 7. Go-live and measure success using KPI dashboards  
 
-Conclusion
+## CONCLUSION
 I gained hands-on experience understanding client needs by conducting discovery sessions and translating those needs into well-defined user stories and acceptance criteria from a business perspective.
 I then developed a structured roadmap to guide the ERP upgrade project and concluded by presenting a comprehensive summary outlining the project approach and key deliverables.
